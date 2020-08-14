@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+__pycache__
+Data/Auxiliary
+Data/Models
+Data/Vectorizers
