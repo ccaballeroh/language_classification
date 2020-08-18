@@ -12,3 +12,5 @@ This small repo holds the code and Data to build a classifier of languages among
   ``conda env create --file languageClassification.yml`` on an Windows, macOS, and Linux.
 
 Taken from [this guided project on Coursera](https://www.coursera.org/projects/language-classification)
+
+**IDEA:** Classify closely related languages such as the north-germanic languages
